@@ -1,0 +1,23 @@
+{
+  "name": "api-training",
+  "version": "1.0.0",
+  "description": "A learning excersise to build APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PreethiJC/Api-training.git"
+  },
+  "keywords": [
+    "API",
+    "Node.js"
+  ],
+  "author": "Preethi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PreethiJC/Api-training/issues"
+  },
+  "homepage": "https://github.com/PreethiJC/Api-training#readme"
+}
